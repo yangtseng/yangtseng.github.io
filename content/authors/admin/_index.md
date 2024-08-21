@@ -113,11 +113,11 @@ skills:
       - name: Coffee brewing
         description: ''
         percent: 60
-        icon: ☕️
+        # icon: ☕️
       - name: Cats
         description: ''
         percent: 100
-        icon: 🐈
+        # icon: 🐈
 
 languages:
   - name: English
