@@ -113,7 +113,7 @@ skills:
       - name: Coffee brewing
         description: ''
         percent: 60
-        icon: cafe
+        icon: coffee
       - name: Cats
         description: ''
         percent: 100
