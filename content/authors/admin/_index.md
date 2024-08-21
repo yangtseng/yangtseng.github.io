@@ -132,14 +132,14 @@ languages:
 awards:
   - title: Presidental Award
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2021-11'
+    date: '2021-11-25'
     awarder: National Taiwan University
     # icon: coursera
     summary: |
       Awarded to the top 5% students.
   - title: College Student Research Creativity Award
     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2021-06'
+    date: '2021-06-01'
     awarder: Ministry of Science and Technology, Taiwan
     # icon: edx
     # summary: |
