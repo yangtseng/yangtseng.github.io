@@ -3,7 +3,7 @@
 title: Tzu-Yang Tseng 曾子洋
 
 # Name pronunciation (optional)
-name_pronunciation: Tzu-Yang Tseng
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Tzu-Yang
