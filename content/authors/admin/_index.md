@@ -52,13 +52,13 @@ interests:
   - Cell Fate / Time Series
 
 education:
-  - area: M.S. \n Graduate Institute of Biomedical Electronics and Bioinformatics
+  - area: M.S. Graduate Institute of Biomedical Electronics and Bioinformatics
     institution: National Taiwan University
     date_start: 2022-09-01
     date_end: 2023-06-30
     summary: |
       Thesis on _Transcriptional regulation of T cell exhaustion in immune checkpoint blockade resistance at single-cell resolution _. Supervised by [Prof. Hsueh-Fen Juan]
-  - area: B.S. \n Major in Life Science, Minor in Economics
+  - area: B.S. Life Science (Major), Economics (Minor)
     institution: National Taiwan University
     date_start: 2018-09-01
     date_end: 2022-06-30
