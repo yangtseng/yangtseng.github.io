@@ -23,6 +23,7 @@ highlight_name: true
 role: Research Assistant
 
 # Organizations/Affiliations to display in Biography blox
+organizations:
 - name: National Taiwan University
   url: https://www.ntu.edu.tw
 
