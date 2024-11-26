@@ -81,8 +81,8 @@ sections:
       padding:
       - 0
       - 0
-      - 0
-      - 0
+      - 1
+      - 1
     view: date-title-summary
   id: news
 - block: cta-card
