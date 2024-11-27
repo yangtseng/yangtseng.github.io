@@ -89,7 +89,7 @@ sections:
     page_type: post
     subtitle: ""
     text: ""
-    title: Recent News
+    title: News
   design:
     spacing:
       padding:
