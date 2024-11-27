@@ -24,7 +24,7 @@ slides: example
 summary: 
 tags:
 - Mulit-omics analysis
-title: Single-cell RNA sequencing unveils cholesterol biosynthesis as a therapeutic target in malignant breast cancer: a combinatorial treatment approach
+title: "Single-cell RNA sequencing unveils cholesterol biosynthesis as a therapeutic target in malignant breast cancer: a combinatorial treatment approach"
 url_code: 
 url_dataset:
 url_pdf: 
