@@ -24,7 +24,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: scDrug, a bioinformatics workflow, includes a one-step pipeline to generate cell clustering for scRNA-seq data and two methods to predict drug treatments.
 tags:
-- Source Themes
+- Tool development
 title: "scDrug: From single-cell RNA-seq to drug response prediction"
 url_code: https://github.com/ailabstw/scDrug
 url_dataset: ""
