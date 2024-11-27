@@ -12,7 +12,7 @@ authors:
 - Hsueh-Fen Juan
 date: "2024-07-03T00:00:00Z"
 doi: "https://doi.org/10.1016/j.biopha.2024.117070"
-featured: false
+featured: true
 image:
   focal_point: ""
   preview_only: false
