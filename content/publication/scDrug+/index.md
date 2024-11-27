@@ -25,7 +25,7 @@ publishDate: "2024-07-03T00:00:00Z"
 slides: example
 summary: scDrug+, a comprehensive pipeline that seamlessly integrates single-cell analysis with drug-response prediction.
 tags:
-- Source Themes
+- Tool development
 title: "scDrug+: predicting drug-responses using single-cell transcriptomics and molecular structure"
 url_code: https://github.com/ailabstw/scDrugplus
 url_dataset: ""
