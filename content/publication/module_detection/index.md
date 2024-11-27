@@ -21,7 +21,7 @@ projects:
 publication: In 2024 *The 83rd annual meeting of the Japanese Cancer Association*
 publication_short: In 2024 *The 83rd annual meeting of the Japanese Cancer Association*
 publication_types:
-- poster
+- conference abstract
 publishDate: "2024-09-19T00:00:00Z"
 
 summary: We developed a distance-based module detection method capable of revealing module dynamics and identifying transitional genes between cancer stages.
