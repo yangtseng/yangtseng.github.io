@@ -43,12 +43,26 @@ sections:
   content:
     filters:
       exclude_featured: false
+      publication_type: "article-journal"
       folders:
       - publication
     text: ""
-    title: Recent Publications
+    title: Journal Articles
+  id: Journal articles
   design:
     view: citation
+- block: collection
+  content:
+    filters:
+      exclude_featured: false
+      publication_type: "conference abstract"
+      folders:
+      - publication
+    text: ""
+    title: Conference Abstracts
+  design:
+    view: citation
+  id: Conference abstracts
 - block: collection
   content:
     filters:
