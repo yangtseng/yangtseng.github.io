@@ -137,8 +137,8 @@ work:
 - company_logo: ""
   company_name: Osaka University
   company_url: ""
-  date_end: "2023-12-01"
-  date_start: "2024-01-31"
+  date_end: "2024-01-31"
+  date_start: "2023-12-01"
   position: Visiting Scholar
   summary: |
     - Mathematical Modeling
