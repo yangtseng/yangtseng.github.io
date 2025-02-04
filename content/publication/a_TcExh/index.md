@@ -21,8 +21,8 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: "Under review in Cancer Research"
-publication_short: "Under review in Cancer Research"
+publication: "Under review in Journal for ImmunoTherapy of Cancer"
+publication_short: "Under review in JITC"
 publication_types:
 - article-journal
 publishDate: "2024-11-01T00:00:00Z"
