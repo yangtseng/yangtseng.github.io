@@ -15,8 +15,8 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "Manuscript under preparation for resubmission"
-publication_short: "Manuscript under preparation for resubmission"
+publication: "Under review in Computational and Structural Biotechnology Journal"
+publication_short: "Under review in CSBJ"
 publication_types:
 - article-journal
 publishDate: "2024-10-31T00:00:00Z"
@@ -24,7 +24,7 @@ slides: example
 summary: 
 tags:
 - Mulit-omics analysis
-title: "Single-cell RNA sequencing unveils cholesterol biosynthesis as a therapeutic target in malignant breast cancer: a combinatorial treatment approach"
+title: "Single-Cell and Multi-Omics Integration Reveals Cholesterol Biosynthesis as a Synergistic Target with HER2 in Aggressive Breast Cancer"
 url_code: 
 url_dataset:
 url_pdf: 
