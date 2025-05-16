@@ -29,7 +29,7 @@ sections:
   design:
     columns: "1"
     spacing:
-      padding: ["20px","35px","0px","35px"]
+      padding: ["20px","30px","20px","30px"]
 - block: collection
   content:
     filters:
@@ -54,7 +54,7 @@ sections:
   design:
     view: citation
     spacing:
-      padding: ["20px","35px","0px","35px"]
+      padding: ["20px","30px","20px","30px"]
 - block: collection
   content:
     filters:
@@ -67,7 +67,7 @@ sections:
   design:
     view: citation
     spacing:
-      padding: ["20px","35px","0px","35px"]
+      padding: ["20px","30px","20px","30px"]
   id: Conference abstracts
 - block: collection
   content:
@@ -98,11 +98,7 @@ sections:
     title: News
   design:
     spacing:
-      padding:
-      - 0
-      - 1
-      - 1
-      - 1
+      padding: ["20px","30px","20px","30px"]
     view: date-title-summary
   id: news
 - block: cta-card
