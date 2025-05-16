@@ -1,8 +1,7 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 
-    padding: ["20px","20px","20px","20px"]
+  spacing: 6rem
 sections:
 - block: resume-biography-3
   content:
