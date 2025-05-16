@@ -68,6 +68,8 @@ sections:
     title: Conference Abstracts
   design:
     view: citation
+    spacing:
+      padding: ["2000px","2000px","2000px","2000px"]
   id: Conference abstracts
 - block: collection
   content:
