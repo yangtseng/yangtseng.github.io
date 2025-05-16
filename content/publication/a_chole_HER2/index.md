@@ -27,7 +27,7 @@ tags:
 title: "Single-cell and multi-omics integration reveals cholesterol biosynthesis as a synergistic target with HER2 in aggressive breast cancer"
 url_code: "https://github.com/yangtseng/BRCA_chole_HER2"
 url_dataset:
-url_pdf: 
+url_pdf: uploads/Chole_her2.pdf
 url_poster: 
 url_project: ""
 url_slides: ""
