@@ -127,7 +127,7 @@ work:
 - company_logo: ""
   company_name: National Taiwan University
   company_url: ""
-  date_end: ""
+  date_end: "2025-01-31"
   date_start: "2023-08-23"
   position: Research Assistant
   summary: |
