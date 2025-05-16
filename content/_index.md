@@ -1,7 +1,7 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 6rem
+  spacing: 8rem
 sections:
 - block: resume-biography-3
   content:
@@ -69,7 +69,7 @@ sections:
   design:
     view: citation
     spacing:
-      padding: ["2000px","2000px","2000px","2000px"]
+      padding: ["0px","50px","0px","50px"]
   id: Conference abstracts
 - block: collection
   content:
