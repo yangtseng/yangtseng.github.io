@@ -1,8 +1,7 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 
-    padding: ["20px", "5px", "20px", "5px"]
+  spacing: 8rem    
 sections:
 - block: resume-biography-3
   content:
@@ -29,6 +28,12 @@ sections:
     title: "\U0001F4DA My Research"
   design:
     columns: "1"
+    spacing:
+      padding:
+      - 0
+      - 1
+      - 1
+      - 1
 - block: collection
   content:
     filters:
@@ -95,7 +100,7 @@ sections:
     spacing:
       padding:
       - 0
-      - 0
+      - 1
       - 1
       - 1
     view: date-title-summary
