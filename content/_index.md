@@ -1,7 +1,12 @@
 ---
 date: "2022-10-24"
 design:
-  spacing: 8rem    
+  spacing: 
+    padding:
+      - 0
+      - 1
+      - 1
+      - 1
 sections:
 - block: resume-biography-3
   content:
