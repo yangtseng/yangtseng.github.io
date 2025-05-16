@@ -29,7 +29,7 @@ sections:
   design:
     columns: "1"
     spacing:
-      padding: ["0px","35px","0px","35px"]
+      padding: ["20px","35px","0px","35px"]
 - block: collection
   content:
     filters:
@@ -54,7 +54,7 @@ sections:
   design:
     view: citation
     spacing:
-      padding: ["0px","35px","0px","35px"]
+      padding: ["20px","35px","0px","35px"]
 - block: collection
   content:
     filters:
@@ -67,7 +67,7 @@ sections:
   design:
     view: citation
     spacing:
-      padding: ["0px","35px","0px","35px"]
+      padding: ["20px","35px","0px","35px"]
   id: Conference abstracts
 - block: collection
   content:
