@@ -8,14 +8,14 @@ authors:
 - Hsueh-Fen Juan
 date: "2025-04-30T00:00:00Z"
 doi: "https://doi.org/10.1016/j.csbj.2025.04.030"
-featured: false
+featured: true
 image:
   caption: ''
   focal_point: ""
   preview_only: false
 projects:
 - internal-project
-publication: "Computational and Structural Biotechnology Journal"
+publication: "*Computational and Structural Biotechnology Journal* 27:1719-1731"
 publication_short: "CSBJ"
 publication_types:
 - article-journal
@@ -24,8 +24,8 @@ slides: example
 summary: 
 tags:
 - Mulit-omics analysis
-title: "Single-Cell and Multi-Omics Integration Reveals Cholesterol Biosynthesis as a Synergistic Target with HER2 in Aggressive Breast Cancer"
-url_code:
+title: "Single-cell and multi-omics integration reveals cholesterol biosynthesis as a synergistic target with HER2 in aggressive breast cancer"
+url_code: "https://github.com/yangtseng/BRCA_chole_HER2"
 url_dataset:
 url_pdf: 
 url_poster: 
