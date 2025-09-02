@@ -58,9 +58,9 @@ education:
 first_name: Tzu-Yang
 highlight_name: true
 interests:
-- Systems Biology
-- Multi-omics
 - Machine Learning
+- Multi-omics
+- Biomedical Imaging
 languages:
 - name: English
   percent: 30
@@ -69,8 +69,8 @@ languages:
 last_name: Tseng
 name_pronunciation:
 organizations:
-- name: National Taiwan University
-  url: https://www.ntu.edu.tw
+- name: University of Illinois Urbana-Champaign
+  url: https://bioengineering.illinois.edu
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -87,7 +87,7 @@ profiles:
   url: https://scholar.google.com/citations?user=2GR7oxwAAAAJ&hl=zh-TW&oi=ao
 - icon: academicons/orcid
   url: https://orcid.org/0000-0002-0345-0061
-role: Research Assistant
+role: PhD Student
 skills:
 - items:
   - description: ""
@@ -148,4 +148,4 @@ work:
 
 ## About Me
 
-Tzu-Yang Tseng is a research assistant at National Taiwan University with research interests in machine learning, multi-omics tool development, and mathematical modeling. He is currently seeking opportunities to pursue a PhD abroad.
+I am a Bioengineering PhD student at the University of Illinois Urbana-Champaign, fortunate to be co-advised by Prof. Fan Lam and Prof. Jonathan V. Sweedler. My research centers on developing novel tools by integrating machine learning, multi-omics, and biomedical imaging. 
