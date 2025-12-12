@@ -25,7 +25,7 @@ image:
   preview_only: false
 links:
 - name: Custom Link
-  url: https://link.springer.com/article/10.1186/s12943-025-02468-7
+  url: 'https://link.springer.com/article/10.1186/s12943-025-02468-7'
 projects:
 - internal-project
 publication: "*Molecular Cancer* 24, 306"
@@ -40,7 +40,7 @@ tags:
 title: Transcriptional dynamics of CD8+ T-cell exhaustion in immune checkpoint inhibitor resistance at single-cell resolution
 url_code: https://github.com/yangtseng/T_cell_exhaustion
 url_dataset: 'https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE268165'
-url_pdf: 
+url_pdf: uploads/TcExh.pdf
 url_poster: 
 url_project: ""
 url_slides: ""
