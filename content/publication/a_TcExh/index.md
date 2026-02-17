@@ -41,4 +41,4 @@ url_source: ''
 url_video: ''
 ---
 
-This work is driven by the results in my [previous poster](/publication/p_TcExh_CACIB) on single-cell multiomics analysis.
+This work is driven by the results in my [previous poster](/content/publication/p_TcExh_CACIB) on single-cell multiomics analysis.
