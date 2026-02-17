@@ -1,0 +1,125 @@
+PMID- 41382107
+OWN - NLM
+STAT- In-Process
+LR  - 20251215
+IS  - 1476-4598 (Electronic)
+IS  - 1476-4598 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2025 Dec 11
+TI  - Transcriptional dynamics of CD8(+) T-cell exhaustion in immune checkpoint 
+      inhibitor resistance at single-cell resolution.
+PG  - 306
+LID - 10.1186/s12943-025-02468-7 [doi]
+LID - 306
+AB  - BACKGROUND: Tumor-specific CD8(+) T lymphocytes play a critical role in 
+      anticancer immunity but frequently become dysfunctional and exhausted within the 
+      immunosuppressive tumor microenvironment. Although immune checkpoint inhibitors 
+      can restore T-cell activity, resistance to these treatments remains a significant 
+      challenge. Therefore, understanding the transcriptional and regulatory mechanisms 
+      underlying CD8(+) T-cell exhaustion is crucial for the development of effective 
+      therapies. METHODS: We developed two murine models of acquired immune checkpoint 
+      inhibitor resistance through prolonged anti-PD1 treatment. To gain insight into 
+      CD8(+) T-cell exhaustion, we performed single-cell multiomics analysis, including 
+      both scRNA-seq and scATAC-seq, to capture gene expression profiles and chromatin 
+      accessibility. Moreover, we collected three external datasets to validate the 
+      results in silico. We further assessed the therapeutic potential of Runx2 through 
+      marker expression and cytotoxicity assays. RESULTS: Our single-cell analysis 
+      revealed distinct T-cell subsets, including early and terminally exhausted 
+      populations, along with their exhaustion trajectories. Runx2 was identified as a 
+      key transcription factor associated with CD8(+) T-cell exhaustion in both models 
+      and correlated with immunotherapy response in clinical data. Additionally, 
+      functional marker expression and cytotoxicity assays demonstrated that inhibiting 
+      Runx2 improved CD8(+) T-cell cytotoxicity. CONCLUSIONS: These findings highlight 
+      the role of Runx2 as a crucial regulator of CD8(+) T-cell exhaustion in the 
+      context of prolonged immune checkpoint inhibitor treatment. Targeting Runx2 may 
+      provide a novel strategy to overcome immune checkpoint inhibitor resistance and 
+      enhance therapeutic efficacy, offering promising avenues for combination 
+      therapies. SUPPLEMENTARY INFORMATION: The online version contains supplementary 
+      material available at 10.1186/s12943-025-02468-7.
+FAU - Tseng, Tzu-Yang
+AU  - Tseng TY
+AD  - Department of Life Science, National Taiwan University, No. 1, Sec. 4, Roosevelt 
+      Rd., Taipei, 106, Taiwan.
+AD  - Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan 
+      University, No. 1, Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan.
+FAU - Hsieh, Ching-Hung
+AU  - Hsieh CH
+AD  - Graduate Institute of Oncology, National Taiwan University, No.2, Syujhou Rd., 
+      Taipei, 100, Taiwan.
+FAU - Huang, Hsuan-Cheng
+AU  - Huang HC
+AD  - Institute of Biomedical Informatics, National Yang Ming Chao Tung University, No. 
+      155, Sec. 2, Linong St., 112, Taipei, Taiwan.
+FAU - Wu, Yu-Ching
+AU  - Wu YC
+AD  - Department of Medical Research, National Taiwan University Hospital, No.7, Chung 
+      Shan S. Rd., Taipei, 100, Taiwan.
+FAU - Hsu, Chiun
+AU  - Hsu C
+AD  - Graduate Institute of Oncology, National Taiwan University, No.2, Syujhou Rd., 
+      Taipei, 100, Taiwan.
+AD  - Department of Medical Oncology, National Taiwan University Cancer Center, No. 57, 
+      Ln. 155, Sec. 3, Keelung Rd., 106, Taipei, Taiwan.
+FAU - Hsu, Chia-Lang
+AU  - Hsu CL
+AD  - Graduate Institute of Oncology, National Taiwan University, No.2, Syujhou Rd., 
+      Taipei, 100, Taiwan. chialanghsu@ntuh.gov.tw.
+AD  - Department of Medical Research, National Taiwan University Hospital, No.7, Chung 
+      Shan S. Rd., Taipei, 100, Taiwan. chialanghsu@ntuh.gov.tw.
+AD  - Graduate Institute of Medical Genomics and Proteomics, National Taiwan 
+      University, No. 1, Sec. 1, Ren'ai Rd., 100, Taipei, Taiwan. 
+      chialanghsu@ntuh.gov.tw.
+AD  - Center for Computational and Systems Biology, National Taiwan University, No. 1, 
+      Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan. chialanghsu@ntuh.gov.tw.
+FAU - Ou, Da-Liang
+AU  - Ou DL
+AD  - Graduate Institute of Oncology, National Taiwan University, No.2, Syujhou Rd., 
+      Taipei, 100, Taiwan. dlou@ntu.edu.tw.
+AD  - YongLin Institute of Health, National Taiwan University, No. 49, Fanglan Rd., 
+      106, Taipei, Taiwan. dlou@ntu.edu.tw.
+FAU - Juan, Hsueh-Fen
+AU  - Juan HF
+AD  - Department of Life Science, National Taiwan University, No. 1, Sec. 4, Roosevelt 
+      Rd., Taipei, 106, Taiwan. yukijuan@ntu.edu.tw.
+AD  - Center for Computational and Systems Biology, National Taiwan University, No. 1, 
+      Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan. yukijuan@ntu.edu.tw.
+AD  - Graduate Institute of Biomedical Electronics and Bioinformatics, National Taiwan 
+      University, No. 1, Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan. 
+      yukijuan@ntu.edu.tw.
+AD  - Center for Advanced Computing and Imaging in Biomedicine, National Taiwan 
+      University, No. 1, Sec. 4, Roosevelt Rd., 106, Taipei, Taiwan. 
+      yukijuan@ntu.edu.tw.
+LA  - eng
+PT  - Journal Article
+DEP - 20251211
+PL  - England
+TA  - Mol Cancer
+JT  - Molecular cancer
+JID - 101147698
+SB  - IM
+PMC - PMC12696930
+OTO - NOTNLM
+OT  - Gene expression profiling – GEP
+OT  - Hepatocellular carcinoma
+OT  - Immune checkpoint inhibitor
+OT  - Next generation sequencing – NGS
+OT  - T cell
+COIS- Declarations. Ethics approval and consent to participate: Not applicable. Consent 
+      for publication: Not applicable. Competing interests: The authors declare no 
+      competing interests.
+EDAT- 2025/12/12 03:30
+MHDA- 2025/12/12 03:30
+PMCR- 2025/12/11
+CRDT- 2025/12/11 23:39
+PHST- 2025/06/23 00:00 [received]
+PHST- 2025/09/07 00:00 [accepted]
+PHST- 2025/12/12 03:30 [medline]
+PHST- 2025/12/12 03:30 [pubmed]
+PHST- 2025/12/11 23:39 [entrez]
+PHST- 2025/12/11 00:00 [pmc-release]
+AID - 10.1186/s12943-025-02468-7 [pii]
+AID - 2468 [pii]
+AID - 10.1186/s12943-025-02468-7 [doi]
+PST - epublish
+SO  - Mol Cancer. 2025 Dec 11;24(1):306. doi: 10.1186/s12943-025-02468-7.
